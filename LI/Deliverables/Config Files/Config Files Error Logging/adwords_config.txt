@@ -1,0 +1,6 @@
+DB_HOST=lvlpostgres.cp551nedypjo.us-east-1.rds.amazonaws.com
+DB_NAME=cybyte_development
+DB_PORT=5432
+DB_SCHEMA=public
+DB_USER=cybyte_postgres
+DB_PASSWORD=lbnmnPS*s5F#
